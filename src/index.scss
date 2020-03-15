@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+$mainBlue:#BCC6CC;
+$mainBlack: #000000;
+$mainWhite:#fff;
+$mainGrey:#837E7C;
+$mainDark: #342D7E;
+
+body {
+    background: $mainWhite;
+    color:$mainDark;
+    font-family: 'Oswald', sans-serif;;
+}
